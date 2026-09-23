@@ -15,14 +15,14 @@ The workflow includes:
 
 ---
 
-## 📂 Dataset
+## Dataset
 - The dataset contains multiple numerical features (e.g., WTT, PTI, EQW, SBI, etc.)  
 - Target column: **`TARGET CLASS`**  
 - Features were standardized to ensure fair distance calculations in KNN.
 
 ---
 
-## ⚙️ Steps Implemented
+## Steps Implemented
 1. **Data Preprocessing**
    - Dropped target column for scaling
    - Applied `StandardScaler` to normalize features
@@ -42,5 +42,5 @@ The workflow includes:
 
 ---
 
-## 📊 Results
+## Results
 - **Confusion Matrix Example:**
