@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-This project demonstrates the implementation of a **K-Nearest Neighbors (KNN)** classifier using Python and scikit-learn.  
+This project demonstrates the implementation of a **K-Nearest Neighbors (KNN)** classifier using Python and scikit-learn.
 The workflow includes:
 - Feature scaling with `StandardScaler`
 - Train-test split
