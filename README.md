@@ -41,4 +41,13 @@ It covers the full workflow:
 ---
 
 ##  Results
-- 
+
+### Confusion Matrix
+[[134   8]
+[ 11 147]]
+
+### Elbow Method (Error Rate vs K)
+- <img width="990" height="573" alt="image" src="https://github.com/user-attachments/assets/6cd1dd34-260a-439e-8c44-32e25e00c13d" />
+- The error rate decreases sharply at first and stabilizes around **K = 10–12**.
+- This indicates the optimal number of neighbors for balancing bias and variance.
+
